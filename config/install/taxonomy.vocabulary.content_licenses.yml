@@ -1,0 +1,7 @@
+langcode: und
+status: true
+dependencies: {  }
+name: 'Content licenses'
+vid: content_licenses
+description: ''
+weight: 0

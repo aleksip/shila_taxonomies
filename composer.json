@@ -1,0 +1,16 @@
+{
+    "name": "aleksip/shila_taxonomies",
+    "type": "drupal-module",
+    "description": "Provides taxonomies",
+    "keywords": ["drupal", "module", "features"],
+    "homepage": "https://github.com/aleksip/shila_taxonomies",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Aleksi Peebles"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    }
+}

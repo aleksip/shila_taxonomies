@@ -1,0 +1,7 @@
+langcode: und
+status: true
+dependencies: {  }
+name: Organizations
+vid: organizations
+description: ''
+weight: 0
